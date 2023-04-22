@@ -1,4 +1,4 @@
 # Portfolio
 
 
-<a href="https://github.com/ReginaGashi/Portfolio"> All about me! </a>
+<a href="https://ReginaGashi.github.io/Portfolio"> All about me! </a>
